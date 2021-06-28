@@ -1,0 +1,13 @@
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\bin\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.exe
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\bin\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.deps.json
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\bin\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.runtimeconfig.json
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\bin\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.runtimeconfig.dev.json
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\bin\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.dll
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\bin\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.pdb
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\obj\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.csprojAssemblyReference.cache
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\obj\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.AssemblyInfoInputs.cache
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\obj\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.AssemblyInfo.cs
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\obj\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.csproj.CoreCompileInputs.cache
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\obj\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.dll
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\obj\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.pdb
+C:\Users\ddieg\Desktop\ReadFileCSVAndReturnAverage\ReadFileCSVAndReturnAverage\obj\Debug\netcoreapp3.1\ReadFileCSVAndReturnAverage.genruntimeconfig.cache
